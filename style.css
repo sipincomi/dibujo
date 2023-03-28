@@ -1,0 +1,13 @@
+body{
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoxrB5qlhZFoZiyceGduWwcXAHBT75gk09QA&usqp=CAU);
+    background-repeat: no-repeat;
+    background-size: 150%;
+    text-align: center;
+}
+canvas{
+    background:pink;
+    border: ridge rgb(0, 0, 0) 10px;
+}
+h1{
+    color: white;
+}
